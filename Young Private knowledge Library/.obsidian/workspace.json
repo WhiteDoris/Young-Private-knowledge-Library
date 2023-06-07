@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "0521e3f4a4950b8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fa7e587c4185548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3093529b5b14e3cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 -Templates/💡知识笔记模板.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0840eab5e8bfbff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4527b8d966dc55f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b334671193ae9cc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "b1c0ab632af67009",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#复盘",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "291c1eb36c930f33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c634158498a9360",
+    "type": "split",
+    "children": [
+      {
+        "id": "239903627fed06b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3987efcb92415a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10 -Templates/💡知识笔记模板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a091c40b99317f2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10 -Templates/💡知识笔记模板.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e452a75fc1412fc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa6ce9d1385ed31d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10 -Templates/💡知识笔记模板.md"
+              }
+            }
+          },
+          {
+            "id": "bcb634f3191ddf16",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a9b67ae6a2a5097",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3093529b5b14e3cf",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20230607.md",
+    "ZZ -MOC/📑阅读列表.md",
+    "10 -Templates/💡知识笔记模板.md",
+    "10 -Templates/📃周复盘模板.md",
+    "10 -Templates/⚡闪记模板.md",
+    "10 -Templates/📑每月复盘模板.md",
+    "10 -Templates/📘阅读笔记模板.md",
+    "10 -Templates/😺日记模板.md",
+    "30 -每日日记&时间总结/未命名.md",
+    "30 -每日日记&时间总结/每周",
+    "30 -每日日记&时间总结/每月",
+    "30 -每日日记&时间总结",
+    "ZZ -MOC",
+    "60 -永久笔记",
+    "🖼️ -PIC/未命名",
+    "10 -Templates/ZZ -MOC",
+    "30 -每日日记&时间总结/日记/2023-06-05_星期一.md",
+    "30 -每日日记&时间总结/日记",
+    "20 -闪念笔记",
+    "40 -阅读笔记/s.md",
+    "🖼️ -PIC/Pasted image 20230605144902.png",
+    "🖼️ -PIC/Pasted image 20230605145412.png",
+    "🖼️ -PIC",
+    "🖼️ -PIC/Pasted image 20230605145408.png",
+    "60-.md",
+    "Day Planners/Day Planner-20230605.md",
+    "60 -Day Planners/Day Planner-20230605.md",
+    "2023-06-05.md",
+    "未命名.canvas"
+  ]
+}

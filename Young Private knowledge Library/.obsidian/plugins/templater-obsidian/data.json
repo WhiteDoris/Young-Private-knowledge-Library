@@ -1,0 +1,50 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "10 -Templates",
+  "templates_pairs": [
+    [
+      "{{上海天气}}",
+      "curl \"curl -H \"Accept-Language: zh-CN\" \"wttr.in/Shanghai?format=2\"\""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "20 -闪念笔记",
+      "template": "10 -Templates/⚡闪记模板.md"
+    },
+    {
+      "folder": "30 -每日日记&时间总结/日记",
+      "template": "10 -Templates/😺日记模板.md"
+    },
+    {
+      "folder": "30 -每日日记&时间总结/每周",
+      "template": "10 -Templates/📃周复盘模板.md"
+    },
+    {
+      "folder": "30 -每日日记&时间总结/每月",
+      "template": "10 -Templates/📑每月复盘.md"
+    },
+    {
+      "folder": "40 -阅读笔记",
+      "template": "10 -Templates/📘阅读笔记模板.md"
+    },
+    {
+      "folder": "60 -永久笔记",
+      "template": "10 -Templates/💡知识笔记模板.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}
