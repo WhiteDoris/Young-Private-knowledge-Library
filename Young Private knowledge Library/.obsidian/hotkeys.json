@@ -1,12 +1,4 @@
 {
-  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "T"
-    }
-  ],
   "quickadd:choice:0722367e-8311-4dff-bc61-341eda52463a": [
     {
       "modifiers": [
@@ -45,6 +37,14 @@
         "Alt"
       ],
       "key": "1"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
     }
   ]
 }

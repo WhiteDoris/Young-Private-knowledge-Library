@@ -8,9 +8,9 @@
     ]
   ],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": true,
-  "shell_path": "",
+  "shell_path": "C:\\Windows\\System32\\cmd.exe",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
@@ -37,14 +37,14 @@
     {
       "folder": "60 -永久笔记",
       "template": "10 -Templates/💡知识笔记模板.md"
+    },
+    {
+      "folder": "70 -公司笔记/JDWellcloud",
+      "template": "10 -Templates/需求理解模板.md"
     }
   ],
   "syntax_highlighting": true,
-  "enabled_templates_hotkeys": [
-    ""
-  ],
-  "startup_templates": [
-    ""
-  ],
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
   "enable_ribbon_icon": true
 }

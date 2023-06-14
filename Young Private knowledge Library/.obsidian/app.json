@@ -1,1 +1,6 @@
-{}
+{
+  "readableLineLength": true,
+  "tabSize": 4,
+  "foldHeading": true,
+  "focusNewTab": true
+}
