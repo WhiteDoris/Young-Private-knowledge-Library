@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f94a50026d924692",
+        "id": "22f002f87aa77b19",
         "type": "tabs",
         "children": [
           {
-            "id": "88c4571dab802ee2",
+            "id": "6069ee04a747a8e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 -Templates/😺日记模板.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2554f4812a0b3070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 -Templates/😺日记模板.md",
+                "file": "Day Planners/Day Planner-20230629.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 -Templates/😺日记模板.md",
+                "file": "Day Planners/Day Planner-20230629.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 -Templates/😺日记模板.md",
+                "file": "Day Planners/Day Planner-20230629.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 -Templates/😺日记模板.md"
+                "file": "Day Planners/Day Planner-20230629.md"
               }
             }
           },
@@ -160,15 +146,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:插入模板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -178,47 +164,48 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "2554f4812a0b3070",
+  "active": "6069ee04a747a8e3",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230607.md",
+    "Day Planners/Day Planner-20230615.md",
+    "Day Planners/Day Planner-20230629.md",
+    "Day Planners/Day Planner-20230605.md",
     "10 -Templates/script/🥊zzz-daily.md",
+    "10 -Templates/📘阅读笔记模板.md",
     "10 -Templates/😺日记模板.md",
-    "Day Planners/Day Planner-20230614.md",
-    "30 -每日日记&时间总结/日记/未命名.md",
-    "30 -每日日记&时间总结/日记/未命名 2.md",
-    "30 -每日日记&时间总结/日记/未命名 1.md",
-    "30 -每日日记&时间总结/日记/2023-06-05_星期一.md",
-    "20 -闪念笔记/日记/未命名.md",
+    "40 -阅读笔记/《 把自己当回事 》.md",
+    "60 -永久笔记/🦁 卡片笔记要求.md",
+    "60 -永久笔记/未命名.md",
+    "10 -Templates/💡知识笔记模板.md",
+    "Day Planners/Day Planner-20230628.md",
+    "Day Planners/Day Planner-20230627.md",
+    "80 -文献笔记/未命名 2.md",
+    "80 -文献笔记/未命名.md",
+    "80 -文献笔记/未命名 1.md",
+    "80 -文献笔记/《 软件设计师》- 计算机系统知识.md",
+    "80 -文献笔记",
+    "🖼️ -PIC/Pasted image 20230626160030.png",
+    "30 -每日日记&时间总结/每日",
+    "垃圾桶.md",
+    "30 -每日日记&时间总结/每周/未命名.md",
+    "30 -每日日记&时间总结/未命名.md",
+    "30 -每日日记&时间总结/每月/未命名.md",
+    "10 -Templates/📑每月复盘模板.md",
+    "Day Planners/Day Planner-20230626.md",
+    "10 -Templates/⚡闪记模板.md",
     "10 -Templates/👍需求理解模板.md",
+    "10 -Templates/📃周复盘模板.md",
     "10 -Templates/script",
-    "70 -公司笔记/JDWellcloud/需求理解 -重写地址组配置增加重写前缀功能.md",
-    "70 -公司笔记/JDWellcloud/未命名.md",
-    "Day Planners/Day Planner-20230613.md",
     "6D4A6F6E.png",
     "Pasted image 20230612151427.png",
     "🖼️ -PIC/Pasted image 20230612151433.png",
     "70 -公司笔记/JDWellcloud/未命名",
-    "10 -Templates/📃周复盘模板.md",
-    "10 -Templates/📑每月复盘模板.md",
-    "10 -Templates/📘阅读笔记模板.md",
-    "10 -Templates/💡知识笔记模板.md",
     "70 -公司笔记/JDWellcloud",
     "70 -公司笔记",
-    "Day Planners/Day Planner-20230612.md",
-    "Day Planners/Day Planner-20230611.md",
-    "20 -闪念笔记/未命名.md",
-    "40 -阅读笔记/未命名.md",
-    "Untitled.md",
-    "20 -闪念笔记/日记/2023-06-09_星期五.md",
     "20 -闪念笔记/日记",
-    "Day Planners/Day Planner-20230609.md",
-    "Day Planners/Day Planner-20230608.md",
-    "Day Planners/Day Planner-20230607.md",
-    "ZZ -MOC/📑阅读列表.md",
     "30 -每日日记&时间总结/每周",
     "30 -每日日记&时间总结/每月",
     "30 -每日日记&时间总结",
-    "ZZ -MOC",
-    "60 -永久笔记",
     "🖼️ -PIC/Pasted image 20230605144902.png",
     "🖼️ -PIC/Pasted image 20230605145412.png",
     "🖼️ -PIC/Pasted image 20230605145408.png",

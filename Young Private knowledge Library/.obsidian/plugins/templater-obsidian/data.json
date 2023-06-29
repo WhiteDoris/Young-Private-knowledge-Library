@@ -41,6 +41,10 @@
     {
       "folder": "70 -公司笔记/JDWellcloud",
       "template": "10 -Templates/需求理解模板.md"
+    },
+    {
+      "folder": "80 -文献笔记",
+      "template": "10 -Templates/💡知识笔记模板.md"
     }
   ],
   "syntax_highlighting": true,
